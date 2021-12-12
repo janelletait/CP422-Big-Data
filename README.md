@@ -26,6 +26,7 @@ Note: The number of lines in the output is the same as the number of room types.
 Submit answer1.pig, and answer2.sql only.
 
 
+
 Assignment 3:
 Instructions
 The training data set in LibSVM is given (Please refer to Slide 30 for the description of LibSVM data format). Submit a Python file to include the following implementations: 
