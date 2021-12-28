@@ -1,5 +1,6 @@
 # CP422-Big-Data
 Assignment 1:
+-----------------------------------
 
 Instructions:
 -----------------------------------
@@ -8,13 +9,14 @@ Use the weather data set as input and code in cp422A1.zip.
 For the weather in the morning (at 6am) in Summer (May to August), what are the average of the air temperature each year? In the output, each line should be a year, followed by the average.
 
 Use the given code to implement your map and reduce functions.  
------------------------------------
 
 Solutions are saved in CP422_A1.zip.
+-----------------------------------
 
 
 
 Assignment 2:
+-----------------------------------
 
 Instructions:
 -----------------------------------
@@ -33,13 +35,15 @@ Note: The number of lines in the output is the same as the number of neighbourho
 
 2. Write a Hive program (.sql) to show the information of each room type. Print on the Console the room_type, and the number of records for each room_type.
 Note: The number of lines in the output is the same as the number of room types. 
------------------------------------
+
 
 Solutions are saved as answer1.pig and answer2.sql.
+-----------------------------------
 
 
 
 Assignment 3:
+-----------------------------------
 
 Instructions:
 -----------------------------------
@@ -50,6 +54,6 @@ The training data set in LibSVM is given (train_scaled.txt).
 2. Predict on the following example (features in LibSVM format, you can rewrite this example in your code to a vector representation and then predict its value):
  
 "1:0.343158 2:0.762712 3:-0.27243 4:0.678756 5:-0.0348259 6:0.163445 7:-0.00635324 8:-0.295056 9:-0.396509 10:0.142857 11:-0.256757 12:-0.118812 13:0.294964 14:0.821429"
------------------------------------
 
 Solutions are saved as CP422_a3.py.
+-----------------------------------
