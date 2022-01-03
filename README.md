@@ -10,7 +10,7 @@ For the weather in the morning (at 6am) in Summer (May to August), what are the 
 
 Use the given code to implement your map and reduce functions.  
 
-Solutions are saved in CP422_A1.zip.
+Solutions are saved in CP422_A1_solution.zip.
 -----------------------------------
 
 
