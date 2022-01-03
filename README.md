@@ -55,5 +55,5 @@ The training data set in LibSVM is given (train_scaled.txt).
  
 "1:0.343158 2:0.762712 3:-0.27243 4:0.678756 5:-0.0348259 6:0.163445 7:-0.00635324 8:-0.295056 9:-0.396509 10:0.142857 11:-0.256757 12:-0.118812 13:0.294964 14:0.821429"
 
-Solutions are saved as CP422_a3.py.
+Solutions are saved as CP422_A3_solution.py.
 -----------------------------------
